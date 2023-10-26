@@ -7,10 +7,10 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 header1       |    header 2  
-| ----------  | ------------ |
+|  --  |  --  |
 
 |    Hola     |    adios     |
-| ----------  | ------------ |
+|  --  |  --  |
 
 
 <!--
