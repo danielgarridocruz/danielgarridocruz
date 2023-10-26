@@ -1,6 +1,11 @@
 ### Hi there 👋
 🌱 I’m currently learning Markdown
 
+![danielgarridocruz stats](https://github-readme-stats.vercel.app/api?username=danielgarridocruz&show_icons=true&locale=en)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 <!--
 **danielgarridocruz/danielgarridocruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
