@@ -1,9 +1,16 @@
 ### Hi there 👋
-🌱 I’m currently learning Markdown
+
+### 🌱 I’m currently learning Markdown
 
 ![danielgarridocruz stats](https://github-readme-stats.vercel.app/api?username=danielgarridocruz&show_icons=true&locale=en)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+header1       |    header 2  
+| ----------  | ------------ |
+
+|    Hola     |    adios     |
+| ----------  | ------------ |
 
 
 <!--
